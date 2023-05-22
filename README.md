@@ -1,2 +1,2 @@
 # prueva
-scrip to edit the youtube color
+script to edit the youtube color
